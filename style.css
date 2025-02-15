@@ -1,0 +1,231 @@
+.box1{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.box1 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+margin-left: 4px;
+}
+
+.box2{
+
+    margin-top: 10px;
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    
+}
+
+.box2 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 4px;
+}
+
+.box3{
+    margin-top: 10px;
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.box3 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 2px;
+    
+}
+
+.box4{
+    margin-top: 10px;
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.box4 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    
+}
+
+
+.boox{
+    
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.boox2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box5{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;
+   
+}
+
+.box5 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 4px;
+}
+
+
+.box6{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;
+    justify-content: end;
+}
+
+.box6 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 4px;
+}
+
+.box7{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.box7 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 4px;
+}
+
+.box8{
+    margin-top: 10px;
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.box8 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 4px;
+}
+
+.box9{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;   
+}
+
+.box9 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 4px;
+}
+
+.box10{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 10px;  
+    align-items: end; 
+}
+
+.box10 div{
+    background-color: orangered;
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 4px;
+}
+
+.boox3{
+    display: flex;
+    justify-content: space-evenly;
+}
